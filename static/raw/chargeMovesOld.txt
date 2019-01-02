@@ -1,0 +1,133 @@
+Aerial Ace,Flying,55,45,N/A,Charge
+Air Cutter,Flying,60,55,N/A,Charge
+Ancient Power,Rock,70,45,N/A,Charge
+Aqua Jet,Water,45,45,N/A,Charge
+Aqua Tail,Water,50,35,N/A,Charge
+Aurora Beam,Ice,80,60,N/A,Charge
+Avalanche,Ice,90,45,N/A,Charge
+Blast Burn,Fire,110,50,N/A,Charge
+Blizzard,Ice,130,75,N/A,Charge
+Body Slam,Normal,50,35,N/A,Charge
+Bone Club,Ground,40,35,N/A,Charge
+Brave Bird,Flying,90,55,N/A,Charge
+Brick Break,Fighting,40,35,N/A,Charge
+Brine,Water,60,50,N/A,Charge
+Bubble Beam,Water,45,40,N/A,Charge
+Bug Buzz,Bug,90,60,N/A,Charge
+Bulldoze,Ground,80,60,N/A,Charge
+Close Combat,Fighting,100,60,N/A,Charge
+Cross Chop,Fighting,50,35,N/A,Charge
+Cross Poison,Poison,40,35,N/A,Charge
+Crunch,Dark,70,45,N/A,Charge
+Dark Pulse,Dark,80,50,N/A,Charge
+Dazzling Gleam,Fairy,100,70,N/A,Charge
+Dig,Ground,100,80,N/A,Charge
+Disarming Voice,Fairy,70,45,N/A,Charge
+Discharge,Electric,65,45,N/A,Charge
+Doom Desire,Steel,80,35,N/A,Charge
+Draco Meteor,Dragon,150,75,N/A,Charge
+Dragon Claw,Dragon,50,35,N/A,Charge
+Dragon Pulse,Dragon,90,60,N/A,Charge
+Draining Kiss,Fairy,60,55,N/A,Charge
+Drill Peck,Flying,60,40,N/A,Charge
+Drill Run,Ground,80,55,N/A,Charge
+Dynamic Punch,Fighting,90,50,N/A,Charge
+Earthquake,Ground,120,65,N/A,Charge
+Energy Ball,Grass,90,60,N/A,Charge
+Fire Blast,Fire,140,80,N/A,Charge
+Fire Punch,Fire,55,40,N/A,Charge
+Flame Burst,Fire,70,55,N/A,Charge
+Flame Charge,Fire,70,50,N/A,Charge
+Flame Wheel,Fire,60,55,N/A,Charge
+Flamethrower,Fire,70,50,N/A,Charge
+Flash Cannon,Steel,110,65,N/A,Charge
+Focus Blast,Fighting,150,75,N/A,Charge
+Foul Play,Dark,70,45,N/A,Charge
+Frenzy Plant,Grass,100,45,N/A,Charge
+Future Sight,Psychic,120,65,N/A,Charge
+Giga Drain,Grass,50,80,N/A,Charge
+Grass Knot,Grass,90,50,N/A,Charge
+Gunk Shot,Poison,130,75,N/A,Charge
+Gyro Ball,Steel,80,60,N/A,Charge
+Heart Stamp,Psychic,40,40,N/A,Charge
+Heat Wave,Fire,95,75,N/A,Charge
+Heavy Slam,Steel,70,50,N/A,Charge
+Horn Attack,Normal,40,35,N/A,Charge
+Hurricane,Flying,110,65,N/A,Charge
+Hydro Cannon,Water,90,40,N/A,Charge
+Hydro Pump,Water,130,75,N/A,Charge
+Hydro Pump Blastoise,Water,90,80,N/A,Charge
+Hyper Beam,Normal,150,80,N/A,Charge
+Hyper Fang,Normal,80,50,N/A,Charge
+Ice Beam,Ice,90,55,N/A,Charge
+Ice Punch,Ice,50,40,N/A,Charge
+Icy Wind,Ice,60,45,N/A,Charge
+Iron Head,Steel,60,50,N/A,Charge
+Last Resort,Normal,90,55,N/A,Charge
+Leaf Blade,Grass,70,35,N/A,Charge
+Low Sweep,Fighting,40,40,N/A,Charge
+Magnet Bomb,Steel,70,45,N/A,Charge
+Mega Drain,Grass,25,55,N/A,Charge
+Megahorn,Bug,90,55,N/A,Charge
+Meteor Mash,Steel,100,50,N/A,Charge
+Mirror Coat,Psychic,60,55,N/A,Charge
+Moonblast,Fairy,130,70,N/A,Charge
+Mud Bomb,Ground,55,40,N/A,Charge
+Night Shade,Ghost,60,55,N/A,Charge
+Night Slash,Dark,50,40,N/A,Charge
+Ominous Wind,Ghost,50,40,N/A,Charge
+Origin Pulse,Water,130,60,N/A,Charge
+Outrage,Dragon,110,60,N/A,Charge
+Overheat,Fire,150,80,N/A,Charge
+Parabolic Charge,Electric,25,55,N/A,Charge
+Petal Blizzard,Grass,110,65,N/A,Charge
+Play Rough,Fairy,90,60,N/A,Charge
+Poison Fang,Poison,40,35,N/A,Charge
+Power Gem,Rock,80,60,N/A,Charge
+Power Whip,Grass,90,50,N/A,Charge
+Precipice Blades,Ground,130,60,N/A,Charge
+Psybeam,Psychic,70,60,N/A,Charge
+Psychic,Psychic,100,70,N/A,Charge
+Psycho Boost,Psychic,70,40,N/A,Charge
+Psyshock,Psychic,65,45,N/A,Charge
+Psystrike,Psychic,100,55,N/A,Charge
+Rest,Normal,50,35,N/A,Charge
+Rock Blast,Rock,50,40,N/A,Charge
+Rock Slide,Rock,80,45,N/A,Charge
+Rock Tomb,Rock,70,60,N/A,Charge
+Sand Tomb,Ground,80,60,N/A,Charge
+Scald,Water,80,60,N/A,Charge
+Scald,Water,50,80,N/A,Charge
+Seed Bomb,Grass,55,40,N/A,Charge
+Shadow Ball,Ghost,100,55,N/A,Charge
+Shadow Punch,Ghost,40,35,N/A,Charge
+Shadow Sneak,Ghost,50,45,N/A,Charge
+Signal Beam,Bug,75,55,N/A,Charge
+Silver Wind,Bug,70,45,N/A,Charge
+Sky Attack,Flying,80,45,N/A,Charge
+Sludge,Poison,50,40,N/A,Charge
+Sludge Bomb,Poison,80,50,N/A,Charge
+Sludge Wave,Poison,110,65,N/A,Charge
+Solar Beam,Grass,150,80,N/A,Charge
+Stomp,Normal,55,40,N/A,Charge
+Stone Edge,Rock,100,55,N/A,Charge
+Struggle,Normal,35,100,N/A,Charge
+Submission,Fighting,60,50,N/A,Charge
+Surf,Water,65,40,N/A,Charge
+Swift,Normal,60,55,N/A,Charge
+Thunder,Electric,100,60,N/A,Charge
+Thunder Punch,Electric,45,35,N/A,Charge
+Thunderbolt,Electric,80,45,N/A,Charge
+Twister,Dragon,45,45,N/A,Charge
+Vice Grip,Normal,40,40,N/A,Charge
+Water Pulse,Water,70,60,N/A,Charge
+Weather Ball Fire,Fire,60,35,N/A,Charge
+Weather Ball Ice,Ice,60,35,N/A,Charge
+Weather Ball Rock,Rock,60,35,N/A,Charge
+Weather Ball Water,Water,60,35,N/A,Charge
+Wild Charge,Electric,90,50,N/A,Charge
+Wrap,Normal,60,45,N/A,Charge
+Wrap Green,Normal,25,45,N/A,Charge
+Wrap Pink,Normal,25,45,N/A,Charge
+X-Scissor,Bug,45,35,N/A,Charge
+Zap Cannon,Electric,150,80,N/A,Charge

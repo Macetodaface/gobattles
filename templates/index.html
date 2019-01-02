@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+
+</head>
+<body>
+
+<link rel="stylesheet" href="{{ url_for('static', filename='bootstrap-3.3.7-dist/css/bootstrap.min.css') }}">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+
+<div class="page-content-wrapper">
+
+    <datalist id="pokemonList">
+        {% for pokemon in data.pokemon %}
+            <option>{{pokemon.name}}</option>
+        {% endfor %}
+    </datalist>
+    <div class="col-xs-12">
+        <div class="col-xs-5"></div>
+        <img class="col-xs-1" id="great-league" src="{{ url_for('static', filename='images/balls/great.png') }}">
+        <img class="col-xs-1" id="ultra-league" src="{{ url_for('static', filename='images/balls/ultra.png') }}">
+        <img class="col-xs-1" id="master-league" src="{{ url_for('static', filename='images/balls/master.png') }}">
+    </div>
+    {% for i in range(3) %}
+        <datalist id="fastList{{i}}"></datalist>
+        <datalist id="chargeList{{i}}"></datalist>
+        <div class="col-xs-1"></div>
+        <div class="col-xs-10 pokemon" id="pokemon{{i}}">
+            <div class="col-xs-4 pokemonBox">
+                <div class="col-xs-12">
+                    <!--<span class="col-xs-6">Pokemon: </span>-->
+                    <input class="col-xs-6 pokemonInput" id ="pokemonInput{{i}}" type="text" list="pokemonList" />
+                    <div class="typeContainer">
+                        <img style="margin-left: 10%" id="type1{{i}}" width="20%" class="smallTypeImage">
+                        <img id="type2{{i}}" width="20%" class="smallTypeImage">
+                    </div>
+
+                </div>
+
+                <div class="col-xs-6">
+                    <img id="poke-img{{i}}" class="col-xs-12 poke-img" width=100px height=100px src="{{ url_for('static', filename='images/pokemon/icons/1.png') }}" class=""></img>
+                    <button class="col-xs-12 pokemonRec" id ="pokeRec{{i}}">Pick for me!</button>
+                </div>
+
+                <div style="margin-top: 15px" class="col-xs-6">
+                    <div>
+                        <!--<span class="col-xs-6">Fast Move: </span>-->
+                        <input class="col-xs-8 fastInput" id ="fastInput{{i}}" type="text" list="fastList{{i}}" />
+                        <img id="fastType{{i}}" class="smallAttackTypeImage">
+                    </div>
+
+                    <div>
+                        <!--<span class="col-xs-6">Charge Move 1: </span>-->
+                        <input class="col-xs-8 chargeInput" id ="chargeInput{{i}}" type="text" list="chargeList{{i}}" />
+                        <img id="chargeType{{i}}" class="smallAttackTypeImage">
+                    </div>
+
+                    <div>
+                        <!--<span class="col-xs-6">Charge Move 2: </span>-->
+                        <input class="col-xs-8 charge2Input" id ="charge2Input{{i}}" type="text" list="chargeList{{i}}" />
+                        <img id="charge2Type{{i}}" class="smallAttackTypeImage">
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-xs-1"></div>
+
+            <div class="col-xs-8">
+                <div class="col-xs-3">
+                    <span class="stat-title" class="col-xs-12">TOTAL DAMAGE</span>
+                    <span class="col-xs-12 TDO" id="TDO{{i}}"></span>
+                </div>
+
+                <div class="col-xs-9">
+                    <div class="col-xs-6">
+                        <span class="stat-title">STRENGTHS</span>
+                        <div id="strengths{{i}}">
+                        </div>
+
+                    </div>
+                    <div class="col-xs-6">
+                        <span class="stat-title">WEAKNESSES</span>
+                        <div id="weaknesses{{i}}">
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+
+        <div class="col-xs-1"></div>
+        <div class="pokemon col-xs-10">
+            <div class="col-xs-4"></div>
+            <div class="col-xs-8">
+                <div class="col-xs-3">
+                    <span class="stat-title" class="col-xs-12">TOTAL DAMAGE</span>
+                    <span class="col-xs-12 TDO" id="totalTDO"></span>
+                </div>
+
+                <div class="col-xs-9">
+                    <div class="col-xs-6">
+                        <span class="stat-title">STRENGTHS</span>
+                        <div id="totalStrengths">
+                        </div>
+
+                    </div>
+                    <div class="col-xs-6">
+                        <span class="stat-title">WEAKNESSES</span>
+                        <div id="totalWeaknesses">
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-xs-1"></div>
+        <div class="pokemon col-xs-10">
+            <span class="col-xs-12 stat-title centered">TOP COUNTERS</span>
+            {% for i in range(12) %}
+            <!--<div class="col-xs-2 pokemonBox">-->
+                <!--<div class="col-xs-12">-->
+                    <!--<input class="col-xs-6 pokemonInput" id ="counterPokemonInput{{i}}" type="text" list="pokemonList" />-->
+                    <!--<div class="typeContainer">-->
+                        <!--<img style="margin-left: 10%" id="counterType1{{i}}" width="20%" class="smallTypeImage">-->
+                        <!--<img id="counterType2{{i}}" width="20%" class="smallTypeImage">-->
+                    <!--</div>-->
+
+                <!--</div>-->
+
+                <div class="col-xs-2">
+                    <span id="counter{{i}}"></span>
+                    <img id="counter-img{{i}}" class="poke-img" width=100px height=100px src="{{ url_for('static', filename='images/pokemon/icons/1.png') }}"></img>
+                </div>
+
+                <!--<div style="margin-top: 15px" class="col-xs-6">-->
+                    <!--<div>-->
+                        <!--<input disabled="disabled" class="col-xs-8 fastInput" id ="counterFastInput{{i}}" type="text"/>-->
+                        <!--<img id="counterFastType{{i}}" class="smallAttackTypeImage">-->
+                    <!--</div>-->
+
+                    <!--<div>-->
+                        <!--<input disabled="disabled" class="col-xs-8 chargeInput" id ="counterChargeInput{{i}}" type="text"/>-->
+                        <!--<img id="counterChargeType{{i}}" class="smallAttackTypeImage">-->
+                    <!--</div>-->
+
+                    <!--<div>-->
+                        <!--&lt;!&ndash;<span class="col-xs-6">Charge Move 2: </span>&ndash;&gt;-->
+                        <!--<input disabled="disabled" class="col-xs-8 charge2Input" id ="counterCharge2Input{{i}}" type="text"/>-->
+                        <!--<img id="counterCharge2Type{{i}}" class="smallAttackTypeImage">-->
+                    <!--</div>-->
+                <!--</div>-->
+            <!--</div>-->
+            {% endfor %}
+        </div>
+
+
+
+
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!--<script type="text/javascript" src="{{ url_for('static', filename='js/libraries/jquery-3.3.1.min.js') }}"></script>-->
+<script src="{{ url_for('static', filename='js/index.js') }}"></script>
+
+</body>
+</html>

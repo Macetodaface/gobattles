@@ -1,0 +1,64 @@
+Acid,Poison,6,5,1000,Fast
+Air Slash,Flying,9,9,1500,Fast
+Astonish,Ghost,5,9,1500,Fast
+Bite,Dark,4,2,500,Fast
+Bubble,Water,8,11,1500,Fast
+Bug Bite,Bug,3,3,500,Fast
+Bullet Punch,Steel,6,7,1000,Fast
+Bullet Seed,Grass,5,11,1500,Fast
+Charge Beam,Electric,5,11,1500,Fast
+Confusion,Psychic,12,12,2000,Fast
+Counter,Fighting,8,7,1000,Fast
+Cut,Normal,3,2,500,Fast
+Dragon Breath,Dragon,4,3,500,Fast
+Dragon Tail,Dragon,9,10,1500,Fast
+Ember,Fire,6,6,1000,Fast
+Extrasensory,Psychic,8,10,1500,Fast
+Feint Attack,Dark,6,6,1000,Fast
+Fire Fang,Fire,7,5,1000,Fast
+Fire Spin,Fire,9,10,1500,Fast
+Frost Breath,Ice,6,5,1000,Fast
+Fury Cutter,Bug,2,4,500,Fast
+Hex,Ghost,6,11,1500,Fast
+Hidden Power,Empty,9,8,1500,Fast
+Ice Shard,Ice,8,10,1500,Fast
+Infestation,Bug,6,11,1500,Fast
+Iron Tail,Steel,9,6,1500,Fast
+Karate Chop,Fighting,5,7,1000,Fast
+Lick,Ghost,3,3,500,Fast
+Low Kick,Fighting,4,5,1000,Fast
+Metal Claw,Steel,5,6,1000,Fast
+Mud Shot,Ground,3,9,1000,Fast
+Mud Slap,Ground,9,8,1500,Fast
+Peck,Flying,6,5,1000,Fast
+Poison Jab,Poison,6,7,1000,Fast
+Poison Sting,Poison,3,6,1000,Fast
+Pound,Normal,5,4,1000,Fast
+Powder Snow,Ice,4,8,1000,Fast
+Present,Normal,3,12,1500,Fast
+Psycho Cut,Psychic,3,9,1000,Fast
+Quick Attack,Normal,5,7,1000,Fast
+Razor Leaf,Grass,8,4,1000,Fast
+Rock Smash,Fighting,9,7,1500,Fast
+Rock Throw,Rock,8,5,1000,Fast
+Scratch,Normal,4,2,500,Fast
+Shadow Claw,Ghost,6,7,1000,Fast
+Smack Down,Rock,10,8,1500,Fast
+Snarl,Dark,8,10,1500,Fast
+Spark,Electric,4,8,1000,Fast
+Splash,Water,0,12,2000,Fast
+Steel Wing,Steel,7,5,1000,Fast
+Struggle Bug,Bug,9,8,1500,Fast
+Sucker Punch,Dark,5,7,1000,Fast
+Tackle,Normal,3,2,500,Fast
+Take Down,Normal,5,8,1500,Fast
+Thunder Shock,Electric,3,9,1000,Fast
+Transform,Normal,0,0,1500,Fast
+Vine Whip,Grass,5,8,1000,Fast
+Volt Switch,Electric,12,10,2500,Fast
+Water Gun,Water,3,3,500,Fast
+Water Gun Blastoise,Water,6,4,1000,Fast
+Waterfall,Water,10,8,1500,Fast
+Wing Attack,Flying,5,7,1000,Fast
+Yawn,Normal,0,12,2000,Fast
+Zen Headbutt,Psychic,8,6,1500,Fast

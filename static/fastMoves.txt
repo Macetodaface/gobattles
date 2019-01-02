@@ -1,0 +1,558 @@
+[
+    {
+        "turns": 2.0,
+        "type": "Poison",
+        "damage": 6,
+        "name": "Acid",
+        "energy": 5
+    },
+    {
+        "turns": 3.0,
+        "type": "Flying",
+        "damage": 9,
+        "name": "Air Slash",
+        "energy": 9
+    },
+    {
+        "turns": 3.0,
+        "type": "Ghost",
+        "damage": 5,
+        "name": "Astonish",
+        "energy": 9
+    },
+    {
+        "turns": 1.0,
+        "type": "Dark",
+        "damage": 4,
+        "name": "Bite",
+        "energy": 2
+    },
+    {
+        "turns": 3.0,
+        "type": "Water",
+        "damage": 8,
+        "name": "Bubble",
+        "energy": 11
+    },
+    {
+        "turns": 1.0,
+        "type": "Bug",
+        "damage": 3,
+        "name": "Bug Bite",
+        "energy": 3
+    },
+    {
+        "turns": 2.0,
+        "type": "Steel",
+        "damage": 6,
+        "name": "Bullet Punch",
+        "energy": 7
+    },
+    {
+        "turns": 3.0,
+        "type": "Grass",
+        "damage": 5,
+        "name": "Bullet Seed",
+        "energy": 11
+    },
+    {
+        "turns": 3.0,
+        "type": "Electric",
+        "damage": 5,
+        "name": "Charge Beam",
+        "energy": 11
+    },
+    {
+        "turns": 4.0,
+        "type": "Psychic",
+        "damage": 12,
+        "name": "Confusion",
+        "energy": 12
+    },
+    {
+        "turns": 2.0,
+        "type": "Fighting",
+        "damage": 8,
+        "name": "Counter",
+        "energy": 7
+    },
+    {
+        "turns": 1.0,
+        "type": "Normal",
+        "damage": 3,
+        "name": "Cut",
+        "energy": 2
+    },
+    {
+        "turns": 1.0,
+        "type": "Dragon",
+        "damage": 4,
+        "name": "Dragon Breath",
+        "energy": 3
+    },
+    {
+        "turns": 3.0,
+        "type": "Dragon",
+        "damage": 9,
+        "name": "Dragon Tail",
+        "energy": 10
+    },
+    {
+        "turns": 2.0,
+        "type": "Fire",
+        "damage": 6,
+        "name": "Ember",
+        "energy": 6
+    },
+    {
+        "turns": 3.0,
+        "type": "Psychic",
+        "damage": 8,
+        "name": "Extrasensory",
+        "energy": 10
+    },
+    {
+        "turns": 2.0,
+        "type": "Dark",
+        "damage": 6,
+        "name": "Feint Attack",
+        "energy": 6
+    },
+    {
+        "turns": 2.0,
+        "type": "Fire",
+        "damage": 7,
+        "name": "Fire Fang",
+        "energy": 5
+    },
+    {
+        "turns": 3.0,
+        "type": "Fire",
+        "damage": 9,
+        "name": "Fire Spin",
+        "energy": 10
+    },
+    {
+        "turns": 2.0,
+        "type": "Ice",
+        "damage": 6,
+        "name": "Frost Breath",
+        "energy": 5
+    },
+    {
+        "turns": 1.0,
+        "type": "Bug",
+        "damage": 2,
+        "name": "Fury Cutter",
+        "energy": 4
+    },
+    {
+        "turns": 3.0,
+        "type": "Ghost",
+        "damage": 6,
+        "name": "Hex",
+        "energy": 11
+    },
+    {
+        "turns": 3.0,
+        "type": "Fire",
+        "damage": 9,
+        "name": "Hidden Power - Fire",
+        "energy": 8
+    },
+    {
+        "turns": 3.0,
+        "type": "Water",
+        "damage": 9,
+        "name": "Hidden Power - Water",
+        "energy": 8
+    },
+    {
+        "turns": 3.0,
+        "type": "Electric",
+        "damage": 9,
+        "name": "Hidden Power - Electric",
+        "energy": 8
+    },    {
+        "turns": 3.0,
+        "type": "Grass",
+        "damage": 9,
+        "name": "Hidden Power - Grass",
+        "energy": 8
+    },
+    {
+        "turns": 3.0,
+        "type": "Ice",
+        "damage": 9,
+        "name": "Hidden Power - Ice",
+        "energy": 8
+    },
+    {
+        "turns": 3.0,
+        "type": "Fighting",
+        "damage": 9,
+        "name": "Hidden Power - Fighting",
+        "energy": 8
+    },
+        {
+        "turns": 3.0,
+        "type": "Poison",
+        "damage": 9,
+        "name": "Hidden Power - Poison",
+        "energy": 8
+    },
+    {
+        "turns": 3.0,
+        "type": "Ground",
+        "damage": 9,
+        "name": "Hidden Power - Ground",
+        "energy": 8
+    },
+    {
+        "turns": 3.0,
+        "type": "Flying",
+        "damage": 9,
+        "name": "Hidden Power - Flying",
+        "energy": 8
+    },    {
+        "turns": 3.0,
+        "type": "Psychic",
+        "damage": 9,
+        "name": "Hidden Power - Psychic",
+        "energy": 8
+    },
+    {
+        "turns": 3.0,
+        "type": "Bug",
+        "damage": 9,
+        "name": "Hidden Power - Bug",
+        "energy": 8
+    },
+    {
+        "turns": 3.0,
+        "type": "Rock",
+        "damage": 9,
+        "name": "Hidden Power - Rock",
+        "energy": 8
+    },    {
+        "turns": 3.0,
+        "type": "Ghost",
+        "damage": 9,
+        "name": "Hidden Power - Ghost",
+        "energy": 8
+    },
+    {
+        "turns": 3.0,
+        "type": "Dragon",
+        "damage": 9,
+        "name": "Hidden Power - Dragon",
+        "energy": 8
+    },
+    {
+        "turns": 3.0,
+        "type": "Dark",
+        "damage": 9,
+        "name": "Hidden Power - Dark",
+        "energy": 8
+    },    {
+        "turns": 3.0,
+        "type": "Steel",
+        "damage": 9,
+        "name": "Hidden Power - Steel",
+        "energy": 8
+    },
+    {
+        "turns": 3.0,
+        "type": "Fairy",
+        "damage": 9,
+        "name": "Hidden Power - Fairy",
+        "energy": 8
+    },
+    {
+        "turns": 3.0,
+        "type": "Ice",
+        "damage": 8,
+        "name": "Ice Shard",
+        "energy": 10
+    },
+    {
+        "turns": 3.0,
+        "type": "Bug",
+        "damage": 6,
+        "name": "Infestation",
+        "energy": 11
+    },
+    {
+        "turns": 3.0,
+        "type": "Steel",
+        "damage": 9,
+        "name": "Iron Tail",
+        "energy": 6
+    },
+    {
+        "turns": 2.0,
+        "type": "Fighting",
+        "damage": 5,
+        "name": "Karate Chop",
+        "energy": 7
+    },
+    {
+        "turns": 1.0,
+        "type": "Ghost",
+        "damage": 3,
+        "name": "Lick",
+        "energy": 3
+    },
+    {
+        "turns": 2.0,
+        "type": "Fighting",
+        "damage": 4,
+        "name": "Low Kick",
+        "energy": 5
+    },
+    {
+        "turns": 2.0,
+        "type": "Steel",
+        "damage": 5,
+        "name": "Metal Claw",
+        "energy": 6
+    },
+    {
+        "turns": 2.0,
+        "type": "Ground",
+        "damage": 3,
+        "name": "Mud Shot",
+        "energy": 9
+    },
+    {
+        "turns": 3.0,
+        "type": "Ground",
+        "damage": 9,
+        "name": "Mud Slap",
+        "energy": 8
+    },
+    {
+        "turns": 2.0,
+        "type": "Flying",
+        "damage": 6,
+        "name": "Peck",
+        "energy": 5
+    },
+    {
+        "turns": 2.0,
+        "type": "Poison",
+        "damage": 6,
+        "name": "Poison Jab",
+        "energy": 7
+    },
+    {
+        "turns": 2.0,
+        "type": "Poison",
+        "damage": 3,
+        "name": "Poison Sting",
+        "energy": 6
+    },
+    {
+        "turns": 2.0,
+        "type": "Normal",
+        "damage": 5,
+        "name": "Pound",
+        "energy": 4
+    },
+    {
+        "turns": 2.0,
+        "type": "Ice",
+        "damage": 4,
+        "name": "Powder Snow",
+        "energy": 8
+    },
+    {
+        "turns": 3.0,
+        "type": "Normal",
+        "damage": 3,
+        "name": "Present",
+        "energy": 12
+    },
+    {
+        "turns": 2.0,
+        "type": "Psychic",
+        "damage": 3,
+        "name": "Psycho Cut",
+        "energy": 9
+    },
+    {
+        "turns": 2.0,
+        "type": "Normal",
+        "damage": 5,
+        "name": "Quick Attack",
+        "energy": 7
+    },
+    {
+        "turns": 2.0,
+        "type": "Grass",
+        "damage": 8,
+        "name": "Razor Leaf",
+        "energy": 4
+    },
+    {
+        "turns": 3.0,
+        "type": "Fighting",
+        "damage": 9,
+        "name": "Rock Smash",
+        "energy": 7
+    },
+    {
+        "turns": 2.0,
+        "type": "Rock",
+        "damage": 8,
+        "name": "Rock Throw",
+        "energy": 5
+    },
+    {
+        "turns": 1.0,
+        "type": "Normal",
+        "damage": 4,
+        "name": "Scratch",
+        "energy": 2
+    },
+    {
+        "turns": 2.0,
+        "type": "Ghost",
+        "damage": 6,
+        "name": "Shadow Claw",
+        "energy": 7
+    },
+    {
+        "turns": 3.0,
+        "type": "Rock",
+        "damage": 10,
+        "name": "Smack Down",
+        "energy": 8
+    },
+    {
+        "turns": 3.0,
+        "type": "Dark",
+        "damage": 8,
+        "name": "Snarl",
+        "energy": 10
+    },
+    {
+        "turns": 2.0,
+        "type": "Electric",
+        "damage": 4,
+        "name": "Spark",
+        "energy": 8
+    },
+    {
+        "turns": 4.0,
+        "type": "Water",
+        "damage": 0,
+        "name": "Splash",
+        "energy": 12
+    },
+    {
+        "turns": 2.0,
+        "type": "Steel",
+        "damage": 7,
+        "name": "Steel Wing",
+        "energy": 5
+    },
+    {
+        "turns": 3.0,
+        "type": "Bug",
+        "damage": 9,
+        "name": "Struggle Bug",
+        "energy": 8
+    },
+    {
+        "turns": 2.0,
+        "type": "Dark",
+        "damage": 5,
+        "name": "Sucker Punch",
+        "energy": 7
+    },
+    {
+        "turns": 1.0,
+        "type": "Normal",
+        "damage": 3,
+        "name": "Tackle",
+        "energy": 2
+    },
+    {
+        "turns": 3.0,
+        "type": "Normal",
+        "damage": 5,
+        "name": "Take Down",
+        "energy": 8
+    },
+    {
+        "turns": 2.0,
+        "type": "Electric",
+        "damage": 3,
+        "name": "Thunder Shock",
+        "energy": 9
+    },
+    {
+        "turns": 3.0,
+        "type": "Normal",
+        "damage": 0,
+        "name": "Transform",
+        "energy": 0
+    },
+    {
+        "turns": 2.0,
+        "type": "Grass",
+        "damage": 5,
+        "name": "Vine Whip",
+        "energy": 8
+    },
+    {
+        "turns": 5.0,
+        "type": "Electric",
+        "damage": 12,
+        "name": "Volt Switch",
+        "energy": 10
+    },
+    {
+        "turns": 1.0,
+        "type": "Water",
+        "damage": 3,
+        "name": "Water Gun",
+        "energy": 3
+    },
+    {
+        "turns": 2.0,
+        "type": "Water",
+        "damage": 6,
+        "name": "Water Gun Blastoise",
+        "energy": 4
+    },
+    {
+        "turns": 3.0,
+        "type": "Water",
+        "damage": 10,
+        "name": "Waterfall",
+        "energy": 8
+    },
+    {
+        "turns": 2.0,
+        "type": "Flying",
+        "damage": 5,
+        "name": "Wing Attack",
+        "energy": 7
+    },
+    {
+        "turns": 4.0,
+        "type": "Normal",
+        "damage": 0,
+        "name": "Yawn",
+        "energy": 12
+    },
+    {
+        "turns": 3.0,
+        "type": "Psychic",
+        "damage": 8,
+        "name": "Zen Headbutt",
+        "energy": 6
+    }
+]

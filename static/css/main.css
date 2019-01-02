@@ -1,0 +1,82 @@
+.TDO {
+    text-align: center;
+    font-size:30px;
+    font-weight:bolder;
+}
+
+.centered {
+    tet-align: center;
+}
+
+.stat-title {
+    font-size:20px;
+    margin-bottom:30px;
+}
+
+.typeImage {
+    display: inline-block;
+    margin-left: 2px;
+    margin-right: 2px
+}
+
+.smallTypeImage {
+    display: inline-block;
+}
+
+.smallAttackTypeImage {
+    margin-left: 5px;
+    display: inline-block;
+    margin-top: 5px;
+    width:20px;
+}
+
+.typeContainer {
+    margin-left: 40%;
+}
+
+.poke-img {
+    width: 125px;
+}
+
+.pokeRec {
+    width:150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button:disabled,
+button[disabled]{
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+}
+
+.pokemonInput {
+    margin-bottom: 10px;
+    width:150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pokemonBox {
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 20px;
+    overflow:auto;
+    background-color: beige;
+}
+
+.pokemon {
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+poke-img {
+    display: block;
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+}

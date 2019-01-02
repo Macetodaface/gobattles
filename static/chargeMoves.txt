@@ -1,0 +1,800 @@
+[
+    {
+        "type": "Flying",
+        "damage": 55,
+        "name": "Aerial Ace",
+        "energy": 45
+    },
+    {
+        "type": "Flying",
+        "damage": 60,
+        "name": "Air Cutter",
+        "energy": 55
+    },
+    {
+        "type": "Rock",
+        "damage": 70,
+        "name": "Ancient Power",
+        "energy": 45
+    },
+    {
+        "type": "Water",
+        "damage": 45,
+        "name": "Aqua Jet",
+        "energy": 45
+    },
+    {
+        "type": "Water",
+        "damage": 50,
+        "name": "Aqua Tail",
+        "energy": 35
+    },
+    {
+        "type": "Ice",
+        "damage": 80,
+        "name": "Aurora Beam",
+        "energy": 60
+    },
+    {
+        "type": "Ice",
+        "damage": 90,
+        "name": "Avalanche",
+        "energy": 45
+    },
+    {
+        "type": "Fire",
+        "damage": 110,
+        "name": "Blast Burn",
+        "energy": 50
+    },
+    {
+        "type": "Ice",
+        "damage": 130,
+        "name": "Blizzard",
+        "energy": 75
+    },
+    {
+        "type": "Normal",
+        "damage": 50,
+        "name": "Body Slam",
+        "energy": 35
+    },
+    {
+        "type": "Ground",
+        "damage": 40,
+        "name": "Bone Club",
+        "energy": 35
+    },
+    {
+        "type": "Flying",
+        "damage": 90,
+        "name": "Brave Bird",
+        "energy": 55
+    },
+    {
+        "type": "Fighting",
+        "damage": 40,
+        "name": "Brick Break",
+        "energy": 35
+    },
+    {
+        "type": "Water",
+        "damage": 60,
+        "name": "Brine",
+        "energy": 50
+    },
+    {
+        "type": "Water",
+        "damage": 45,
+        "name": "Bubble Beam",
+        "energy": 40
+    },
+    {
+        "type": "Bug",
+        "damage": 90,
+        "name": "Bug Buzz",
+        "energy": 60
+    },
+    {
+        "type": "Ground",
+        "damage": 80,
+        "name": "Bulldoze",
+        "energy": 60
+    },
+    {
+        "type": "Fighting",
+        "damage": 100,
+        "name": "Close Combat",
+        "energy": 60
+    },
+    {
+        "type": "Fighting",
+        "damage": 50,
+        "name": "Cross Chop",
+        "energy": 35
+    },
+    {
+        "type": "Poison",
+        "damage": 40,
+        "name": "Cross Poison",
+        "energy": 35
+    },
+    {
+        "type": "Dark",
+        "damage": 70,
+        "name": "Crunch",
+        "energy": 45
+    },
+    {
+        "type": "Dark",
+        "damage": 80,
+        "name": "Dark Pulse",
+        "energy": 50
+    },
+    {
+        "type": "Fairy",
+        "damage": 100,
+        "name": "Dazzling Gleam",
+        "energy": 70
+    },
+    {
+        "type": "Ground",
+        "damage": 100,
+        "name": "Dig",
+        "energy": 80
+    },
+    {
+        "type": "Fairy",
+        "damage": 70,
+        "name": "Disarming Voice",
+        "energy": 45
+    },
+    {
+        "type": "Electric",
+        "damage": 65,
+        "name": "Discharge",
+        "energy": 45
+    },
+    {
+        "type": "Steel",
+        "damage": 80,
+        "name": "Doom Desire",
+        "energy": 35
+    },
+    {
+        "type": "Dragon",
+        "damage": 150,
+        "name": "Draco Meteor",
+        "energy": 75
+    },
+    {
+        "type": "Dragon",
+        "damage": 50,
+        "name": "Dragon Claw",
+        "energy": 35
+    },
+    {
+        "type": "Dragon",
+        "damage": 90,
+        "name": "Dragon Pulse",
+        "energy": 60
+    },
+    {
+        "type": "Fairy",
+        "damage": 60,
+        "name": "Draining Kiss",
+        "energy": 55
+    },
+    {
+        "type": "Flying",
+        "damage": 60,
+        "name": "Drill Peck",
+        "energy": 40
+    },
+    {
+        "type": "Ground",
+        "damage": 80,
+        "name": "Drill Run",
+        "energy": 55
+    },
+    {
+        "type": "Fighting",
+        "damage": 90,
+        "name": "Dynamic Punch",
+        "energy": 50
+    },
+    {
+        "type": "Ground",
+        "damage": 120,
+        "name": "Earthquake",
+        "energy": 65
+    },
+    {
+        "type": "Grass",
+        "damage": 90,
+        "name": "Energy Ball",
+        "energy": 60
+    },
+    {
+        "type": "Fire",
+        "damage": 140,
+        "name": "Fire Blast",
+        "energy": 80
+    },
+    {
+        "type": "Fire",
+        "damage": 55,
+        "name": "Fire Punch",
+        "energy": 40
+    },
+    {
+        "type": "Fire",
+        "damage": 70,
+        "name": "Flame Burst",
+        "energy": 55
+    },
+    {
+        "type": "Fire",
+        "damage": 70,
+        "name": "Flame Charge",
+        "energy": 50
+    },
+    {
+        "type": "Fire",
+        "damage": 60,
+        "name": "Flame Wheel",
+        "energy": 55
+    },
+    {
+        "type": "Fire",
+        "damage": 70,
+        "name": "Flamethrower",
+        "energy": 50
+    },
+    {
+        "type": "Steel",
+        "damage": 110,
+        "name": "Flash Cannon",
+        "energy": 65
+    },
+    {
+        "type": "Fighting",
+        "damage": 150,
+        "name": "Focus Blast",
+        "energy": 75
+    },
+    {
+        "type": "Dark",
+        "damage": 70,
+        "name": "Foul Play",
+        "energy": 45
+    },
+    {
+        "type": "Grass",
+        "damage": 100,
+        "name": "Frenzy Plant",
+        "energy": 45
+    },
+    {
+        "type": "Psychic",
+        "damage": 120,
+        "name": "Future Sight",
+        "energy": 65
+    },
+    {
+        "type": "Grass",
+        "damage": 50,
+        "name": "Giga Drain",
+        "energy": 80
+    },
+    {
+        "type": "Grass",
+        "damage": 90,
+        "name": "Grass Knot",
+        "energy": 50
+    },
+    {
+        "type": "Poison",
+        "damage": 130,
+        "name": "Gunk Shot",
+        "energy": 75
+    },
+    {
+        "type": "Steel",
+        "damage": 80,
+        "name": "Gyro Ball",
+        "energy": 60
+    },
+    {
+        "type": "Psychic",
+        "damage": 40,
+        "name": "Heart Stamp",
+        "energy": 40
+    },
+    {
+        "type": "Fire",
+        "damage": 95,
+        "name": "Heat Wave",
+        "energy": 75
+    },
+    {
+        "type": "Steel",
+        "damage": 70,
+        "name": "Heavy Slam",
+        "energy": 50
+    },
+    {
+        "type": "Normal",
+        "damage": 40,
+        "name": "Horn Attack",
+        "energy": 35
+    },
+    {
+        "type": "Flying",
+        "damage": 110,
+        "name": "Hurricane",
+        "energy": 65
+    },
+    {
+        "type": "Water",
+        "damage": 90,
+        "name": "Hydro Cannon",
+        "energy": 40
+    },
+    {
+        "type": "Water",
+        "damage": 130,
+        "name": "Hydro Pump",
+        "energy": 75
+    },
+    {
+        "type": "Water",
+        "damage": 90,
+        "name": "Hydro Pump Blastoise",
+        "energy": 80
+    },
+    {
+        "type": "Normal",
+        "damage": 150,
+        "name": "Hyper Beam",
+        "energy": 80
+    },
+    {
+        "type": "Normal",
+        "damage": 80,
+        "name": "Hyper Fang",
+        "energy": 50
+    },
+    {
+        "type": "Ice",
+        "damage": 90,
+        "name": "Ice Beam",
+        "energy": 55
+    },
+    {
+        "type": "Ice",
+        "damage": 50,
+        "name": "Ice Punch",
+        "energy": 40
+    },
+    {
+        "type": "Ice",
+        "damage": 60,
+        "name": "Icy Wind",
+        "energy": 45
+    },
+    {
+        "type": "Steel",
+        "damage": 60,
+        "name": "Iron Head",
+        "energy": 50
+    },
+    {
+        "type": "Normal",
+        "damage": 90,
+        "name": "Last Resort",
+        "energy": 55
+    },
+    {
+        "type": "Grass",
+        "damage": 70,
+        "name": "Leaf Blade",
+        "energy": 35
+    },
+    {
+        "type": "Fighting",
+        "damage": 40,
+        "name": "Low Sweep",
+        "energy": 40
+    },
+    {
+        "type": "Steel",
+        "damage": 70,
+        "name": "Magnet Bomb",
+        "energy": 45
+    },
+    {
+        "type": "Grass",
+        "damage": 25,
+        "name": "Mega Drain",
+        "energy": 55
+    },
+    {
+        "type": "Bug",
+        "damage": 90,
+        "name": "Megahorn",
+        "energy": 55
+    },
+    {
+        "type": "Steel",
+        "damage": 100,
+        "name": "Meteor Mash",
+        "energy": 50
+    },
+    {
+        "type": "Psychic",
+        "damage": 60,
+        "name": "Mirror Coat",
+        "energy": 55
+    },
+    {
+        "type": "Fairy",
+        "damage": 130,
+        "name": "Moonblast",
+        "energy": 70
+    },
+    {
+        "type": "Ground",
+        "damage": 55,
+        "name": "Mud Bomb",
+        "energy": 40
+    },
+    {
+        "type": "Ghost",
+        "damage": 60,
+        "name": "Night Shade",
+        "energy": 55
+    },
+    {
+        "type": "Dark",
+        "damage": 50,
+        "name": "Night Slash",
+        "energy": 40
+    },
+    {
+        "type": "Ghost",
+        "damage": 50,
+        "name": "Ominous Wind",
+        "energy": 40
+    },
+    {
+        "type": "Water",
+        "damage": 130,
+        "name": "Origin Pulse",
+        "energy": 60
+    },
+    {
+        "type": "Dragon",
+        "damage": 110,
+        "name": "Outrage",
+        "energy": 60
+    },
+    {
+        "type": "Fire",
+        "damage": 150,
+        "name": "Overheat",
+        "energy": 80
+    },
+    {
+        "type": "Electric",
+        "damage": 25,
+        "name": "Parabolic Charge",
+        "energy": 55
+    },
+    {
+        "type": "Grass",
+        "damage": 110,
+        "name": "Petal Blizzard",
+        "energy": 65
+    },
+    {
+        "type": "Fairy",
+        "damage": 90,
+        "name": "Play Rough",
+        "energy": 60
+    },
+    {
+        "type": "Poison",
+        "damage": 40,
+        "name": "Poison Fang",
+        "energy": 35
+    },
+    {
+        "type": "Rock",
+        "damage": 80,
+        "name": "Power Gem",
+        "energy": 60
+    },
+    {
+        "type": "Grass",
+        "damage": 90,
+        "name": "Power Whip",
+        "energy": 50
+    },
+    {
+        "type": "Ground",
+        "damage": 130,
+        "name": "Precipice Blades",
+        "energy": 60
+    },
+    {
+        "type": "Psychic",
+        "damage": 70,
+        "name": "Psybeam",
+        "energy": 60
+    },
+    {
+        "type": "Psychic",
+        "damage": 100,
+        "name": "Psychic",
+        "energy": 70
+    },
+    {
+        "type": "Psychic",
+        "damage": 70,
+        "name": "Psycho Boost",
+        "energy": 40
+    },
+    {
+        "type": "Psychic",
+        "damage": 65,
+        "name": "Psyshock",
+        "energy": 45
+    },
+    {
+        "type": "Psychic",
+        "damage": 100,
+        "name": "Psystrike",
+        "energy": 55
+    },
+    {
+        "type": "Normal",
+        "damage": 50,
+        "name": "Rest",
+        "energy": 35
+    },
+    {
+        "type": "Rock",
+        "damage": 50,
+        "name": "Rock Blast",
+        "energy": 40
+    },
+    {
+        "type": "Rock",
+        "damage": 80,
+        "name": "Rock Slide",
+        "energy": 45
+    },
+    {
+        "type": "Rock",
+        "damage": 70,
+        "name": "Rock Tomb",
+        "energy": 60
+    },
+    {
+        "type": "Ground",
+        "damage": 80,
+        "name": "Sand Tomb",
+        "energy": 60
+    },
+    {
+        "type": "Water",
+        "damage": 80,
+        "name": "Scald",
+        "energy": 60
+    },
+    {
+        "type": "Water",
+        "damage": 50,
+        "name": "Scald",
+        "energy": 80
+    },
+    {
+        "type": "Grass",
+        "damage": 55,
+        "name": "Seed Bomb",
+        "energy": 40
+    },
+    {
+        "type": "Ghost",
+        "damage": 100,
+        "name": "Shadow Ball",
+        "energy": 55
+    },
+    {
+        "type": "Ghost",
+        "damage": 40,
+        "name": "Shadow Punch",
+        "energy": 35
+    },
+    {
+        "type": "Ghost",
+        "damage": 50,
+        "name": "Shadow Sneak",
+        "energy": 45
+    },
+    {
+        "type": "Bug",
+        "damage": 75,
+        "name": "Signal Beam",
+        "energy": 55
+    },
+    {
+        "type": "Bug",
+        "damage": 70,
+        "name": "Silver Wind",
+        "energy": 45
+    },
+    {
+        "type": "Flying",
+        "damage": 80,
+        "name": "Sky Attack",
+        "energy": 45
+    },
+    {
+        "type": "Poison",
+        "damage": 50,
+        "name": "Sludge",
+        "energy": 40
+    },
+    {
+        "type": "Poison",
+        "damage": 80,
+        "name": "Sludge Bomb",
+        "energy": 50
+    },
+    {
+        "type": "Poison",
+        "damage": 110,
+        "name": "Sludge Wave",
+        "energy": 65
+    },
+    {
+        "type": "Grass",
+        "damage": 150,
+        "name": "Solar Beam",
+        "energy": 80
+    },
+    {
+        "type": "Normal",
+        "damage": 55,
+        "name": "Stomp",
+        "energy": 40
+    },
+    {
+        "type": "Rock",
+        "damage": 100,
+        "name": "Stone Edge",
+        "energy": 55
+    },
+    {
+        "type": "Normal",
+        "damage": 35,
+        "name": "Struggle",
+        "energy": 100
+    },
+    {
+        "type": "Fighting",
+        "damage": 60,
+        "name": "Submission",
+        "energy": 50
+    },
+    {
+        "type": "Water",
+        "damage": 65,
+        "name": "Surf",
+        "energy": 40
+    },
+    {
+        "type": "Normal",
+        "damage": 60,
+        "name": "Swift",
+        "energy": 55
+    },
+    {
+        "type": "Electric",
+        "damage": 100,
+        "name": "Thunder",
+        "energy": 60
+    },
+    {
+        "type": "Electric",
+        "damage": 45,
+        "name": "Thunder Punch",
+        "energy": 35
+    },
+    {
+        "type": "Electric",
+        "damage": 80,
+        "name": "Thunderbolt",
+        "energy": 45
+    },
+    {
+        "type": "Dragon",
+        "damage": 45,
+        "name": "Twister",
+        "energy": 45
+    },
+    {
+        "type": "Normal",
+        "damage": 40,
+        "name": "Vice Grip",
+        "energy": 40
+    },
+    {
+        "type": "Water",
+        "damage": 70,
+        "name": "Water Pulse",
+        "energy": 60
+    },
+    {
+        "type": "Fire",
+        "damage": 60,
+        "name": "Weather Ball Fire",
+        "energy": 35
+    },
+    {
+        "type": "Ice",
+        "damage": 60,
+        "name": "Weather Ball Ice",
+        "energy": 35
+    },
+    {
+        "type": "Rock",
+        "damage": 60,
+        "name": "Weather Ball Rock",
+        "energy": 35
+    },
+    {
+        "type": "Water",
+        "damage": 60,
+        "name": "Weather Ball Water",
+        "energy": 35
+    },
+    {
+        "type": "Electric",
+        "damage": 90,
+        "name": "Wild Charge",
+        "energy": 50
+    },
+    {
+        "type": "Normal",
+        "damage": 60,
+        "name": "Wrap",
+        "energy": 45
+    },
+    {
+        "type": "Normal",
+        "damage": 25,
+        "name": "Wrap Green",
+        "energy": 45
+    },
+    {
+        "type": "Normal",
+        "damage": 25,
+        "name": "Wrap Pink",
+        "energy": 45
+    },
+    {
+        "type": "Bug",
+        "damage": 45,
+        "name": "X-Scissor",
+        "energy": 35
+    },
+    {
+        "type": "Electric",
+        "damage": 150,
+        "name": "Zap Cannon",
+        "energy": 80
+    }
+]
